@@ -27,7 +27,6 @@ public class Cat {
     }
   }
 
-
   public String getAge() {
       if (!isFemale) {
         return String.valueOf(age);
